@@ -1,0 +1,12 @@
+{
+  "name": "Hello world",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Iqra waqas(00351346)",
+  "license": "ISC",
+  "description": "in this tpyescript file we create a hello world of governor sindh IT initiative"
+}
